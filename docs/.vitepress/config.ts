@@ -212,4 +212,5 @@ export default {
       copyright: "Copyright © 2023-present Cvnert",
     },
   },
+  base: "/vitepress/",
 };
